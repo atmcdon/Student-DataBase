@@ -1,0 +1,28 @@
+Undergrad
+Lilly
+Anderson
+anderson@uw.edu
+4.00
+Junior
+BSIT
+GradStudent
+Henry
+Brady
+brady1@uw.edu
+3.50
+11111.11
+Dr. Donald Chinn
+Undergrad
+Bobby
+Hardy
+hardy123@uw.edu
+3.40
+Junior
+Psychology
+GradStudent
+Hanna
+Hardy
+hardy456@uw.edu
+3.80
+10111.50
+Dr. Ankur Teredesai

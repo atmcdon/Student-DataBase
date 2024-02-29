@@ -1,0 +1,7 @@
+C:\dev\T200\StudentDbApp\bin\Release\StudentDbApp.exe.config
+C:\dev\T200\StudentDbApp\bin\Release\StudentDbApp.exe
+C:\dev\T200\StudentDbApp\bin\Release\StudentDbApp.pdb
+C:\dev\T200\StudentDbApp\obj\Release\StudentDbApp.csproj.AssemblyReference.cache
+C:\dev\T200\StudentDbApp\obj\Release\StudentDbApp.csproj.CoreCompileInputs.cache
+C:\dev\T200\StudentDbApp\obj\Release\StudentDbApp.exe
+C:\dev\T200\StudentDbApp\obj\Release\StudentDbApp.pdb

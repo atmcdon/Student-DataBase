@@ -1,0 +1,14 @@
+C:\dev\T200\StudentDbApp\bin\Debug\StudentDbApp.exe.config
+C:\dev\T200\StudentDbApp\bin\Debug\StudentDbApp.exe
+C:\dev\T200\StudentDbApp\bin\Debug\StudentDbApp.pdb
+C:\dev\T200\StudentDbApp\obj\Debug\StudentDbApp.csproj.AssemblyReference.cache
+C:\dev\T200\StudentDbApp\obj\Debug\StudentDbApp.csproj.CoreCompileInputs.cache
+C:\dev\T200\StudentDbApp\obj\Debug\StudentDbApp.exe
+C:\dev\T200\StudentDbApp\obj\Debug\StudentDbApp.pdb
+C:\dev\T200\StudentDbApp - Group\obj\Debug\StudentDbApp.csproj.AssemblyReference.cache
+C:\dev\T200\StudentDbApp - Group\obj\Debug\StudentDbApp.csproj.CoreCompileInputs.cache
+C:\dev\T200\StudentDbApp - Group\obj\Debug\StudentDbApp.exe
+C:\dev\T200\StudentDbApp - Group\obj\Debug\StudentDbApp.pdb
+C:\dev\T200\StudentDbApp - Group\bin\Debug\StudentDbApp.exe.config
+C:\dev\T200\StudentDbApp - Group\bin\Debug\StudentDbApp.exe
+C:\dev\T200\StudentDbApp - Group\bin\Debug\StudentDbApp.pdb
